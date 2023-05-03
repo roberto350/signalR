@@ -1,0 +1,6 @@
+raac1920738464,OnSite,Robert,02/05/2023 03:53:13 p. m.,,,Conectado
+raac1920738464,OnSite,Robert,02/05/2023 03:53:13 p. m.,02/05/2023 03:53:27 p. m.,00:00:14,Desconectado
+raac1036739842,OnSite,Robert,02/05/2023 03:53:47 p. m.,,,Conectado
+raac1036739842,OnSite,Robert,02/05/2023 03:53:47 p. m.,02/05/2023 03:53:53 p. m.,00:00:06,Desconectado
+raac2113720641,OnSite,Robert,02/05/2023 03:53:59 p. m.,,,Conectado
+raac2113720641,OnSite,Robert,02/05/2023 03:53:59 p. m.,02/05/2023 03:54:01 p. m.,00:00:02,Desconectado
